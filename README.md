@@ -6,10 +6,10 @@
 
 ## Overview
 
-A short presentation and hands-on lab to help students understand **overfitting** and how to fight it using L1 and L2 regularization.
+A short final presentation and demo lab to help my classmates understand what is **overfitting** and how to improve the model using L1 and L2 regularization.
 
 - **`Final_Presentation.pptx`** — Covers what overfitting is, and how Lasso (L1) and Ridge (L2) regularization work, with a side-by-side MSE comparison.
-- **`Regularization_techniques.ipynb`** — A ~30 min lab from **IBM Cognitive Class AI** where students implement L1 and L2 regularization in Keras on real-world data.
+- **`Regularization_techniques.ipynb`** — A  lab from **IBM Cognitive Class AI** ( only do L1 and L2) where students implement L1 and L2 regularization in Keras on real-world data.
 
 ---
 
